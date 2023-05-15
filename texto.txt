@@ -1,1 +1,3 @@
 Editando o arquivo do meu reposório
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut malesuada sollicitudin nunc sed faucibus.
+adicionando texto para gerar conflito :)
