@@ -3,3 +3,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut malesuada sollicitud
 adicionando texto para gerar conflito :)
 
 Editando o arquivo para fazer o commit na main
+
+Editando o arquivo para fazer o commit na another_branch
