@@ -5,4 +5,4 @@ adicionando texto para gerar conflito :)
 Editando o arquivo para fazer o commit na main
 
 Editando o arquivo para fazer o commit na another_branch
-oiiiii
+oiiiii jkdsjksdkjsdjk
